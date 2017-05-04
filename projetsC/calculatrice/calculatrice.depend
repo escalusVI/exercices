@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473671025 source:c:\users\vallo\dropbox\projets\calculatrice\main.c
+	<stdio.h>
+	<stdlib.h>
+

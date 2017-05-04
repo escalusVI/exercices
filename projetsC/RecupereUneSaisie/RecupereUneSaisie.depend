@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473410740 source:c:\users\vallo\dropbox\projets\recupereunesaisie\main.c
+	<stdio.h>
+	<stdlib.h>
+
