@@ -1,0 +1,33 @@
+a {
+	position: absolute;
+	display: block;
+	width: 100px;
+	height: 100px;
+	-webkit-transition:-webkit-transform 2s;
+	transition: transform 2s, border-radius 1s;
+}
+
+#fb{
+	left: 200px;
+	top: 100px;
+	background: url("media.png") 0px 0px;
+}
+
+
+#tw{
+	left: 400px;
+	top: 100px;
+	background: url("media.png") -100px 0px;
+}
+
+#lk{
+	left: 600px;
+	top: 100px;
+	background: url("media.png") 300px 0px;
+}
+
+#fb:hover, #tw:hover, #lk:hover{
+	-webkit-transform: rotate(360deg);
+	transform: rotate(360deg);
+	border-radius: 50px;
+}
