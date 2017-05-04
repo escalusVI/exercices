@@ -1,0 +1,6 @@
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\cours\GettingStarted\NombreMystereConsole\bin\Debug\NombreMystereConsole.exe.config
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\cours\GettingStarted\NombreMystereConsole\bin\Debug\NombreMystereConsole.exe
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\cours\GettingStarted\NombreMystereConsole\bin\Debug\NombreMystereConsole.pdb
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\cours\GettingStarted\NombreMystereConsole\obj\Debug\NombreMystereConsole.csprojResolveAssemblyReference.cache
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\cours\GettingStarted\NombreMystereConsole\obj\Debug\NombreMystereConsole.exe
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\cours\GettingStarted\NombreMystereConsole\obj\Debug\NombreMystereConsole.pdb

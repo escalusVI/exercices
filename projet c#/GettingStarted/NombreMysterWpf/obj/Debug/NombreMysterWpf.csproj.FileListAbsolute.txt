@@ -1,0 +1,14 @@
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\bin\Debug\NombreMysterWpf.exe.config
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\bin\Debug\NombreMysterWpf.exe
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\bin\Debug\NombreMysterWpf.pdb
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\obj\Debug\NombreMysterWpf.csprojResolveAssemblyReference.cache
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\obj\Debug\MainWindow.g.cs
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\obj\Debug\App.g.cs
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\obj\Debug\NombreMysterWpf_MarkupCompile.cache
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\obj\Debug\NombreMysterWpf_MarkupCompile.lref
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\obj\Debug\MainWindow.baml
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\obj\Debug\NombreMysterWpf.g.resources
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\obj\Debug\NombreMysterWpf.Properties.Resources.resources
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\obj\Debug\NombreMysterWpf.csproj.GenerateResource.Cache
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\obj\Debug\NombreMysterWpf.exe
+C:\Users\vallo\Documents\Visual Studio 2015\Projects\GettingStarted\NombreMysterWpf\obj\Debug\NombreMysterWpf.pdb

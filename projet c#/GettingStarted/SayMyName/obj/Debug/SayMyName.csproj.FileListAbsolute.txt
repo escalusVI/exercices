@@ -1,0 +1,6 @@
+c:\users\vallo\documents\visual studio 2015\Projects\GettingStarted\SayMyName\bin\Debug\SayMyName.exe.config
+c:\users\vallo\documents\visual studio 2015\Projects\GettingStarted\SayMyName\bin\Debug\SayMyName.exe
+c:\users\vallo\documents\visual studio 2015\Projects\GettingStarted\SayMyName\bin\Debug\SayMyName.pdb
+c:\users\vallo\documents\visual studio 2015\Projects\GettingStarted\SayMyName\obj\Debug\SayMyName.csprojResolveAssemblyReference.cache
+c:\users\vallo\documents\visual studio 2015\Projects\GettingStarted\SayMyName\obj\Debug\SayMyName.exe
+c:\users\vallo\documents\visual studio 2015\Projects\GettingStarted\SayMyName\obj\Debug\SayMyName.pdb
